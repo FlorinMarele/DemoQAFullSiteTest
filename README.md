@@ -10,7 +10,7 @@ Current stage: the Text Box component (demoqa.com/text-box) is tested. I'm conti
 What's in the test plan:
 
 Scope: what is and isn't tested, and what each group of tests checks
-Test environment: Windows 11, Chrome 140
+Test environment: Windows 11, Chrome 156.0.8078.81
 42 test cases with ID, title, description, preconditions, steps, test data, expected result, actual result, status, severity, proof (screenshot) and notes
 Coverage: field display, order and focus, valid and invalid input, short and long input, special and unusual characters, email validation, submit speed, and basic SQL/HTML injection checks
 
